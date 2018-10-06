@@ -1,4 +1,4 @@
 # CLRS-CTCI
-My solutions to Exercise problems from CLRS and CTCI in C++
+My solutions to problems from CLRS and CTCI in C++
 
-This includes exercise problems and some of the tweaked problems related to the exercises from CLRS and CTCI
+This includes some of the tweaked problems as well related to the exercises from CLRS and CTCI
